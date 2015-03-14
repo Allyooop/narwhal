@@ -1,0 +1,13 @@
+
+/narwhal/capybara-*.html
+/narwhal.rspec
+/narwhal/log
+/narwhal/tmp
+/narwhal/db/*.sqlite3
+/narwhal/db/*.sqlite3-journal
+/narwhal/spec/tmp
+
+
+# TODO Comment out these rules if you are OK with secrets being uploaded to the repo
+/narwhal/config/initializers/secret_token.rb
+/narwhal/config/secrets.yml
